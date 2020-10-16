@@ -1,3 +1,3 @@
 # KobeTribute
-Tribute webpage for Kobe Bryant
+Tribute webpage for late Kobe Bryant
 https://lilphemy.github.io/KobeTribute/index.html
